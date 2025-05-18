@@ -1,1 +1,1 @@
-# STIG-Implementation
+# Powershell scripts for implementing STIGS
